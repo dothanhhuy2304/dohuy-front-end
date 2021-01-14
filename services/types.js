@@ -1,0 +1,5 @@
+export const GET_ERRORS='GET_ERRORS';
+
+export const GET_STUDENTS='GET_STUDENTS';
+export const GET_STUDENT='GET_STUDENT';
+export const DELETE_STUDENT='DELETE_STUDENT';
